@@ -1,0 +1,31 @@
+CUSTOMERID,PFNAME,PLNAME,P_AGE,PGENDER,location,destination,PPHONE,PEMAIL,time_spend,DP,review
+301,Aryan,amin,20,male,vaikuthdham,England,324563,a@gmail.com,"2024-02-28 02:30:13",208,5star
+302,Krishna,mulgha,17,male,maninagar,switzerland,3495875,k@gmail.com,"2024-05-18 16:00:00",210,4star
+303,harsh,makwana,10,male,chandranagar,kankaria,940995,h@mail.com,"2024-05-25 00:30:00",219,3star
+304,harsh,panchal,20,male,anjali,chandranagr,789079,h@gmail.com,"2024-02-22 00:43:02",201,2star
+305,rida,shaikh,21,female,shivranjini,anjali,656565,r@gmail.com,"2024-02-22 00:43:02",202,1star
+306,yash,darji,22,male,chandkheda,dharnidhar,575757,y@gmail.com,"2024-02-22 00:43:02",203,4star
+307,sumit,kanojiya,23,male,dharnidhar,nehrunagar,56565,s@gmail.com,"2024-02-22 00:43:02",204,3star
+308,rohan,makwana,24,male,manekbaug,shivranjani,6678,r@gmail.com,"2024-02-22 00:43:02",205,2star
+309,simaran,makwana,25,female,ldcollege,navrangpura,87767,s@gmail.com,"2024-02-22 00:43:02",219,5star
+310,tanu,jadav,18,female,navrangpura,"geeta_mandir  ",585858,t@gmail.com,"2024-02-22 00:43:02",219,4star
+311,sahiba,bali,26,female,laldarwaja,bhulabhai,98980,s@gmail.com,"2024-02-28 02:30:13",208,5star
+312,kulu,bhau,23,male,danilimda,narol,677889,k@gmail.com,"2024-05-12 00:30:02",206,4star
+313,samay,raina,24,male,sarangpur,kalupur,45678,s@gmail.com,"2024-05-12 00:30:02",207,2star
+314,ashish,shah,25,male,kalupur,sarangpur,345678,a@gmail.com,"2024-05-12 00:30:02",209,2star
+315,riddhi,parmar,26,female,maninagar,bhulabhai,234567,r@gmail.com,"2024-05-12 00:30:02",210,2star
+316,pratik,panchal,30,male,nehrunagar,vaikuthdham,475857,p@gmail.com,"2024-12-10 01:45:00",211,3star
+317,bhavna,ma'am,29,female,danilimda,behrampura,494858,b@gmail.com,"2024-12-10 01:45:00",212,4star
+318,prakriti,ma'am,28,female,kalupur,arvind,4857858,p@gmail.com,"2024-12-10 01:45:00",213,5star
+319,dhiren,chauhan,27,male,kalupur,U.k.,459595,d@gmail.com,"2024-12-10 01:45:00",214,2star
+320,dhara,parmar,26,female,kalupur,U.k.,949848,d@gmail.com,"2024-12-10 01:45:00",215,1star
+321,parth,patel,25,male,shalam,gota,78272,p@gmail.com,"2024-12-20 00:20:00",216,2star
+322,shibani,akhtar,24,female,kankaria,chandkheda,3939848,s@gmail.com,"2024-12-20 00:20:00",217,3star
+323,jeet,singh,23,male,shivranjini,danilimda,283737,s@gmail.com,"2024-12-20 00:20:00",218,4star
+324,srikanth,volt,23,male,manekbaug,maninagar,827727,s@gmail.com,"2024-12-20 00:20:00",219,5star
+325,kirtidan,gadhvi,29,male,raipur,sabarmati,757575,k@gmail.com,"2024-12-20 00:20:00",220,4star
+326,ria,patel,23,female,chandkheda,riverfront,47474747,r@gmail.com,"2024-11-01 00:59:00",201,1star
+327,komal,sindhi,26,female,vaikuthdham,himalya,484488,k@gmail.com,"2024-11-01 00:59:00",203,2star
+328,kinjal,panchal,28,female,danilimda,atalbridge,48448,k@gmail.com,"2024-11-01 00:59:00",204,3star
+329,nidhi,darji,30,female,andhjan,spstadium,498848,n@gmail.com,"2024-11-01 00:59:00",205,4star
+330,shivam,bhavsar,41,male,alpbha,alpha,494948,s@gmail.com,"2024-11-01 00:59:00",206,5star
